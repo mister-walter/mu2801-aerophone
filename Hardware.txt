@@ -1,0 +1,3 @@
+6 solenoids for tone holes
+1 solenoid valve to control airflow
+(Future) 1 servo to control pressure

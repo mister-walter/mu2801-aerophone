@@ -1,0 +1,13 @@
+Goals:
+
+Thursday (10/6)
+Play preprogrammed song
+- Solenoid control
+- Note mapping
+
+
+Later (10/15 - 10/22)
+- MIDI instrument
+- automating pressure regulator
+- Host side interface ???
+- stand
