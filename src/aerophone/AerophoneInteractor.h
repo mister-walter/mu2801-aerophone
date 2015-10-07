@@ -13,10 +13,12 @@
 class AerophoneInteractor
 {
   public:
-    AerophoneInteractor(HoleController* holeControllers, ValveController valveController);
+    AerophoneInteractor(HoleController* holeControllers,
+                        ValveController valveController);
     void updateHoleStates(bool states[]);
     void turnValveOn();
     void turnValveOff();
+    HoleController *getHoleControllers();
   private:
     HoleController* _holeControllers;
     ValveController _valveController;
