@@ -1,6 +1,6 @@
 # Software Design
 
-## Hardward module
+## Hardware module
 
 ### Solenoid
 **Purpose:** Represent and control a single solenoid.  
