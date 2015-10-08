@@ -1,0 +1,34 @@
+/home/drew/mu2801-aerophone/Code/bin/MaryHadALittleLamb/uno/Main.ino.o: \
+ Main.ino /usr/share/arduino/hardware/arduino//cores/arduino/Arduino.h \
+ /usr/share/arduino/hardware/arduino//cores/arduino/binary.h \
+ /usr/share/arduino/hardware/arduino//cores/arduino/WCharacter.h \
+ /usr/share/arduino/hardware/arduino//cores/arduino/WString.h \
+ /usr/share/arduino/hardware/arduino//cores/arduino/HardwareSerial.h \
+ /usr/share/arduino/hardware/arduino//cores/arduino/Stream.h \
+ /usr/share/arduino/hardware/arduino//cores/arduino/Print.h \
+ /usr/share/arduino/hardware/arduino//cores/arduino/Printable.h \
+ /usr/share/arduino/hardware/arduino//cores/arduino/new.h \
+ /usr/share/arduino/hardware/arduino//variants/standard/pins_arduino.h \
+ /home/drew/mu2801-aerophone/Code/lib/Aerophone/Aerophone.h \
+ /home/drew/mu2801-aerophone/Code/lib/Aerophone/FingeringScheme.h \
+ /home/drew/mu2801-aerophone/Code/lib/Aerophone/AerophoneInteractor.h \
+ /home/drew/mu2801-aerophone/Code/lib/Aerophone/../Hardware/HoleController.h \
+ /home/drew/mu2801-aerophone/Code/lib/Aerophone/../Hardware/Solenoid.h \
+ /home/drew/mu2801-aerophone/Code/lib/Aerophone/../Hardware/ValveController.h \
+ /home/drew/mu2801-aerophone/Code/lib/Aerophone/AerophoneKnowledge.h \
+ /home/drew/mu2801-aerophone/Code/lib/Aerophone/MusicPlayer.h \
+ /home/drew/mu2801-aerophone/Code/lib/Aerophone/../Music/Song.h \
+ /home/drew/mu2801-aerophone/Code/lib/Aerophone/../Music/SongAtom.h \
+ /home/drew/mu2801-aerophone/Code/lib/Aerophone/AerophoneKnowledge.h \
+ /home/drew/mu2801-aerophone/Code/lib/Aerophone/../Music/Note.h \
+ /home/drew/mu2801-aerophone/Code/lib/Aerophone/../Music/../Aerophone/AerophoneKnowledge.h \
+ /home/drew/mu2801-aerophone/Code/lib/Music/Music.h \
+ /home/drew/mu2801-aerophone/Code/lib/Music/Song.h \
+ /home/drew/mu2801-aerophone/Code/lib/Music/SongAtom.h \
+ /home/drew/mu2801-aerophone/Code/lib/Music/Note.h \
+ /home/drew/mu2801-aerophone/Code/lib/Music/Rest.h \
+ /home/drew/mu2801-aerophone/Code/lib/Aerophone/AerophoneInteractor.h \
+ /home/drew/mu2801-aerophone/Code/lib/Hardware/Hardware.h \
+ /home/drew/mu2801-aerophone/Code/lib/Hardware/Solenoid.h \
+ /home/drew/mu2801-aerophone/Code/lib/Hardware/HoleController.h \
+ /home/drew/mu2801-aerophone/Code/lib/Hardware/ValveController.h
