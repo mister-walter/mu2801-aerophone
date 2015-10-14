@@ -14,3 +14,7 @@ char FingeringScheme::getFingering(int note)
   return _fingerings[note];
 }
 
+char FingeringScheme::allClosed() {
+  return (char) 0;
+}
+

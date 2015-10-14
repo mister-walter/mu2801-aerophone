@@ -1,10 +1,13 @@
-
+// Rest.h
+// A class representing a musical rest.
+// Implements SongAtom
 #ifndef Rest_h
 #define Rest_h
 
 #include "Arduino.h"
 #include "SongAtom.h"
 #include "AerophoneInteractor.h"
+
 class Rest : public SongAtom
 {
     public:

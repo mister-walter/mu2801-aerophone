@@ -1,3 +1,7 @@
+// Rest.cpp
+// A class representing a musical rest.
+// Implements SongAtom
+
 #include "Rest.h"
 
 Rest::Rest(double beats) 

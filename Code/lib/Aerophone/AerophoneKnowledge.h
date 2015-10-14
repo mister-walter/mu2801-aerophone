@@ -14,6 +14,8 @@ class AerophoneKnowledge
     AerophoneKnowledge();
     AerophoneKnowledge(AerophoneInteractor interactor, FingeringScheme fingerings);
     void playMidi(int note, double duration);
+    void turnOnMidi(int note);
+    void turnOffMidi();
   private:
     AerophoneInteractor _interactor;
     FingeringScheme _fingerings;

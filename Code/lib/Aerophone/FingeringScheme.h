@@ -7,6 +7,7 @@ class FingeringScheme
     FingeringScheme();
     void addFingering(int note, char fingering);
     char getFingering(int note);
+    char allClosed();
   private:
     char _fingerings[128];
 };
